@@ -12,6 +12,8 @@ com os dados do arquivo config.php na pasta do IvoryV1 e o projeto ja está func
    </li>
   <li>
     <p>Acredito que durante o processo realmente pequei em manter algumas partes do meu código DRY(dont repeat yourself e acabei repetindo códigos de validação em algumas requests em uma situação com mais tempo teria desaclopado em um arquivo só para validações).</p>
+    </li>
+    <li>
      <p>No desenvolvimento da api de filmes notei a necessidade de criar classes auxiliares porque meu código estava ficando gigantesco e ilegivél o que facilitou algumas validações e operações.Queria ter obtido tempo de aplicar algum pattern organizacional melhor como um strategy ou algo do genero.</p>
     </li>
   <li>
