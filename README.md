@@ -14,7 +14,7 @@ com os dados do arquivo config.php na pasta do IvoryV1 e o projeto ja está func
     <p>Acredito que durante o processo realmente pequei em manter algumas partes do meu código DRY(dont repeat yourself e acabei repetindo códigos de validação em algumas requests em uma situação com mais tempo teria desaclopado em um arquivo só para validações).</p>
     </li>
     <li>
-     <p>No desenvolvimento da api de filmes notei a necessidade de criar classes auxiliares porque meu código estava ficando gigantesco e ilegivél o que facilitou algumas validações e operações.Queria ter obtido tempo de aplicar algum pattern organizacional melhor como um strategy ou algo do genero.</p>
+     <p>No desenvolvimento da api de filmes notei a necessidade de criar classes auxiliares porque meu código estava ficando gigantesco   o que facilitou algumas validações e operações além de melhorar a legibilidade.Queria ter obtido tempo de aplicar algum pattern organizacional melhor como um strategy ou algo do genero.</p>
     </li>
   <li>
     <p>Acredito que numa situação ideal deveria ter criado uma classe com um crud para cada tabela para facilitar o processo das consultas e não precisar faze-las no momento em que se recebe a request</p>
@@ -26,4 +26,6 @@ com os dados do arquivo config.php na pasta do IvoryV1 e o projeto ja está func
 <p>PHP7,Mysql e insomnia</p>
 
 <h3>Conclusão:</h3>
-<p>Concluí que para o curto periodo de tempo a solução ficou funcional e digno de se orgulhar porém o sentimento real é realmente de que gostaria de ter feito mais em quesitos de engenharia e principalmente de ter ido mais a fundo no uso do laravel e implementado a solução conforme todas as especificações.</p>
+<p>Concluí que para o curto periodo de tempo a solução ficou funcional porém na realidade é que realmente gostaria de ter feito mais em quesitos de engenharia e principalmente de ter ido mais a fundo no uso do laravel e implementado a solução conforme todas as especificações.</p>
+
+<span>Agradeço pela oportunidade de realizar o teste e fico muito grato por terem entrado em contato comigo.</span>
