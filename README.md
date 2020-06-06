@@ -21,3 +21,6 @@ com os dados do arquivo config.php na pasta do IvoryV1 e o projeto ja está func
     </li>
   
 </ul>
+
+<h3>Tecnologias Usadas:</h3>
+<p>PHP7,Mysqk e insomnia</p>
