@@ -23,4 +23,7 @@ com os dados do arquivo config.php na pasta do IvoryV1 e o projeto ja está func
 </ul>
 
 <h3>Tecnologias Usadas:</h3>
-<p>PHP7,Mysqk e insomnia</p>
+<p>PHP7,Mysql e insomnia</p>
+
+<h3>Conclusão:</h3>
+<p>Concluí que para o curto periodo de tempo a solução ficou funcional e digno de se orgulhar porém o sentimento real é realmente de que gostaria de ter feito mais em quesitos de engenharia e principalmente de ter ido mais a fundo no uso do laravel e implementado a solução conforme todas as especificações.</p>
