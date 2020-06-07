@@ -29,3 +29,7 @@ com os dados do arquivo config.php na pasta do IvoryV1 e o projeto ja está func
 <p>Concluí que para o curto periodo de tempo a solução ficou funcional porém na realidade é que realmente gostaria de ter feito mais em quesitos de engenharia e principalmente de ter ido mais a fundo no uso do laravel e implementado a solução conforme todas as especificações.</p>
 
 <span>Agradeço pela oportunidade de realizar o teste e fico muito grato por terem entrado em contato comigo.</span>
+
+<h3>Detalhe adicional sobre as requisições GET:</h3>
+<p>Cada requisição GET por exemplo http://localhost/api_movies/Actors.php vai retornar todos os artistas da tabela(infelizmente faltou implementar uma paginação) mas se a requisição possuir um parametro id http://localhost/api_movies/Actors.php?id=4 retornará apenas os dados do ator/atriz de id 4.</p>
+
